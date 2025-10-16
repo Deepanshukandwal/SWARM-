@@ -1,0 +1,9 @@
+Parameter,Specification,Usage
+Empty Weight (without battery & Payload),"8 Kg","Used in physics simulation and aerodynamic modeling"
+Maximum Take Off Weight,"15 Kg","Sets total mass for flight dynamics and control calculations"
+Maximum Payload,"2.5 Kg","Defines available capacity for sensors, armament, and batteries"
+Endurance,"60 - 90 min","Helps design mission duration and swarm persistence in simulation"
+Maximum Speed,"10 m/s","Used to calculate interception time and response range"
+Operational Altitude,"60 - 120 m","Determines engagement zone and collision-avoidance thresholds"
+Range,"20 - 40 km","Sets communication and maneuvering boundaries"
+Firing Range,"30 - 250 m","Defines engagement distance for neutralizing hostile drones"
